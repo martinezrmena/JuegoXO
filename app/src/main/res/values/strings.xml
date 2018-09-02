@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Juego XO</string>
+
+    <!-- RADIOBUTTONS-->
+    <string name="rdbtnX">Jugador 1: X</string>
+    <string name="rdbtnO">Jugador 1: O</string>
+
+    <!-- BUTTONS-->
+    <string name="btnIniciar">INICIAR</string>
+
+</resources>
